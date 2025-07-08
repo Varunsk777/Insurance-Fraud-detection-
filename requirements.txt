@@ -1,0 +1,1 @@
+streamlit pandas numpy faker scipy seaborn matplotlib scikit-learn
